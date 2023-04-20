@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\bin\Debug\net6.0\İndexer.exe
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\bin\Debug\net6.0\İndexer.deps.json
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\bin\Debug\net6.0\İndexer.runtimeconfig.json
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\bin\Debug\net6.0\İndexer.dll
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\bin\Debug\net6.0\İndexer.pdb
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\obj\Debug\net6.0\İndexer.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\obj\Debug\net6.0\İndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\obj\Debug\net6.0\İndexer.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\obj\Debug\net6.0\İndexer.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\obj\Debug\net6.0\İndexer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\obj\Debug\net6.0\İndexer.dll
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\obj\Debug\net6.0\refint\İndexer.dll
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\obj\Debug\net6.0\İndexer.pdb
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\obj\Debug\net6.0\İndexer.genruntimeconfig.cache
+C:\Users\Asus\Documents\C#AB103\İndexer\İndexer\obj\Debug\net6.0\ref\İndexer.dll
